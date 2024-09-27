@@ -4,7 +4,7 @@
 
 - You could solve a 1 million problem without understanding any of them, and this is not useful at all, I want to understand every problem i solve even if it took me 100 years . 
 
-## 1. Resources
+## 1. Resources 
 - **USACO Guide**
 - **ACM Training**
  * I need to fully finish the gold and silver in USACO guide and fully finish ACM training .
